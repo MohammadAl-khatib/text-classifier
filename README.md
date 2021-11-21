@@ -1,2 +1,2 @@
 # Text Classifier
-PR:
+Pull Request:
